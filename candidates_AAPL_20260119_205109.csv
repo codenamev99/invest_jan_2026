@@ -1,0 +1,9 @@
+# Data source: SEC EDGAR (data.sec.gov)
+# Screener Parameters:
+# Revenue >= 0.0
+# NetIncome >= 0.0
+# EPS >= 0.0
+# Debt/Assets <= 0.8
+
+Ticker,Company,CIK,ReportDate,Revenue,NetIncome,NetMargin%,RevenueYoY%,Assets,Liabilities,Equity,Debt/Assets%,EPS,SharesOut
+AAPL,Apple Inc.,0000320193,2025-09-27,265595000000,112010000000,42.17,200.81,359241000000,285508000000,73733000000,79.48,7.49,14776353000
